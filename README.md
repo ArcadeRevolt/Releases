@@ -1,2 +1,2 @@
-# Releases 
+# Java
 Get all the launchers to launch a game Minecraft Java Edition in mobile phone 
